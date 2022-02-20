@@ -15,3 +15,6 @@ vendor
 
 #JetBrains
 .idea
+
+package.lock
+yarn.lock
