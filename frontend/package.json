@@ -1,0 +1,18 @@
+{
+  "name": "nuxt",
+  "description": "nuxt as client",
+  "repository": "https://github.com/xxx.git",
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@babel/preset-env": "^7.12.13",
+    "@nuxtjs/toast": "^3.3.1",
+    "axios": "^0.21.1",
+    "nuxt": "^2.15.8"
+  },
+  "license": "MIT"
+}
