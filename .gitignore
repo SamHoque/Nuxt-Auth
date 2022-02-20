@@ -18,3 +18,4 @@ vendor
 
 package.lock
 yarn.lock
+composer.lock
